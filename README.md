@@ -1,16 +1,7 @@
-# image_gallery
+# Image Gallery App
 
-A new Flutter project.
+## About This App
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/RomitKatrodiya/image_gallary/blob/master/images/Screenshot_20220909_103114.png" style=" height:550px; " data-target="animated-image.originalImage"><img src="https://github.com/RomitKatrodiya/image_gallary/blob/master/images/Screenshot_20220909_103128.png" style=" height:550px; " data-target="animated-image.originalImage">
+<img src="https://github.com/RomitKatrodiya/image_gallary/blob/master/images/Screenshot_20220909_103148.png" style=" height:550px; " data-target="animated-image.originalImage">
+<img src="https://github.com/RomitKatrodiya/image_gallary/blob/master/images/Screenshot_20220909_103209.png" style=" height:550px; " data-target="animated-image.originalImage">
